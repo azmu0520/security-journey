@@ -26,10 +26,10 @@
 
 Get the environment ready before touching any content. Removing friction matters.
 
-- [ ] Install Wireshark on Linux
-- [ ] Create TryHackMe account → [tryhackme.com](https://tryhackme.com)
-- [ ] Create this GitHub repo (`security-journey`) and push initial README
-- [ ] Create Trello board with columns: `This Week`, `In Progress`, `Done`, `Today I Learned`
+- ✅ Install Wireshark on Linux
+- ✅ Create TryHackMe account → [tryhackme.com](https://tryhackme.com)
+- ✅ Create this GitHub repo (`security-journey`) and push initial README
+- ✅ Create Trello board with columns: `This Week`, `In Progress`, `Done`, `Today I Learned`
 
 ### Hour 2 — Professor Messer Videos
 
@@ -43,11 +43,11 @@ Take notes **directly in this repo** as you watch. Don't use paper. Commit them 
 
 ### Hour 1.5 — Practical
 
-- [ ] TryHackMe room: **"OSI Model"** (search it — free, short)
+- ✅ TryHackMe room: **"OSI Model"** (search it — free, short)
 
 ### End of Day
 
-- [ ] Write one sentence in your Trello "Today I Learned" card
+- ✅ Write one sentence in your Trello "Today I Learned" card
 
 ---
 
