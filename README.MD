@@ -212,3 +212,43 @@ Commit it. This becomes your reference when you're prepping for the exam later.
 ---
 
 _Part of my [security-journey](../README.md) — transitioning from web full-stack to security._
+
+| #   | Javob | Izoh                                                            |
+| --- | ----- | --------------------------------------------------------------- |
+| 1   | B     | CDN geografik taqsimlash orqali kechikishni kamaytiradi         |
+| 2   | B     | Concentrator = markaziy shifrlash/deshifrlash nuqtasi           |
+| 3   | C     | NGFW ko'pincha VPN concentrator funksiyasini o'z ichiga oladi   |
+| 4   | C     | VPN = uzoqdan xavfsiz ulanish                                   |
+| 5   | B     | CDN = foydalanuvchiga yaqin kesh serveri                        |
+| 6   | C     | QoS = traffic prioriteti belgilash                              |
+| 7   | B     | TTL=0 → router packet ni o'chiradi                              |
+| 8   | C     | Windows default TTL = 128                                       |
+| 9   | B     | Routing loop — ikki router bir-birini next hop deb ko'rsatadi   |
+| 10  | B     | DNS TTL = sekund, 300 sek = 5 daqiqa kesh                       |
+| 11  | B     | NFV = tarmoq qurilmalarini virtuallashtirish                    |
+| 12  | B     | VPC = bulut ichidagi izolyatsiyalangan virtual tarmoq           |
+| 13  | C     | Transit Gateway = VPC lar orasidagi bulut router                |
+| 14  | B     | NAT Gateway = chiqish bor, kirish yo'q                          |
+| 15  | D     | VPC Endpoint = turli bulut provayderlar orasida to'g'ri ulanish |
+| 16  | B     | Security List = barcha VPC, NSG = individual VNIC               |
+| 17  | B     | NSG = VNIC darajasida granular nazorat                          |
+| 18  | C     | Gmail = login qilib ishlatiladigan tayyor dastur = SaaS         |
+| 19  | C     | O'zi OS boshqaradi = IaaS                                       |
+| 20  | C     | Platforma ustiga o'z ilovangni qurasан = PaaS                   |
+| 21  | B     | IaaS da OS mijoz javobgarligi                                   |
+| 22  | D     | Public + Private = Hybrid                                       |
+| 23  | B     | SaaS da mijoz faqat ma'lumot va akkauntlarga javobgar           |
+| 24  | C     | TCP = tasdiqlash bor = ishonchli                                |
+| 25  | B     | Kechikkan video frame keraksiz, UDP tezroq                      |
+| 26  | C     | SYN → SYN-ACK → ACK                                             |
+| 27  | B     | Flow control faqat TCP da                                       |
+| 28  | A     | Multiplexing = bir vaqtda bir nechta ilova                      |
+| 29  | B     | Ethernet Header → IP Header → TCP Header → Data → Trailer       |
+| 30  | C     | Layer 3 = IP manzillar qo'shadi                                 |
+| 31  | C     | Socket = IP + protokol + port kombinatsiyasi                    |
+| 32  | B     | Klient tasodifiy port (3000), server well-known port (80)       |
+| 33  | A     | 80=HTTP, 443=HTTPS, 22=SSH, 25=SMTP                             |
+| 34  | B     | Port o'zgartirish = xavfsizlik emas, firewall kerak             |
+| 35  | B     | TCP 80 ≠ UDP 80, turli portlar                                  |
+
+---
