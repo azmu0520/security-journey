@@ -9,8 +9,8 @@
 | Day   | Topic                            | Messer Videos      | Practical                               | Status |
 | ----- | -------------------------------- | ------------------ | --------------------------------------- | ------ |
 | Day 1 | Setup + OSI Model                | #1, #2, #3         | TryHackMe: OSI Model room               | ✅     |
-| Day 2 | TCP/IP + Wireshark               | #4, #5, #6, #7     | Wireshark capture + THM: HTTP in Detail | ⬜     |
-| Day 3 | Ports + Protocols + Linux starts | #8, #9, #10, #11   | OverTheWire Bandit lvl 0–1              | ⬜     |
+| Day 2 | TCP/IP + Wireshark               | #4, #5, #6, #7     | Wireshark capture + THM: HTTP in Detail | ✅     |
+| Day 3 | Ports + Protocols + Linux starts | #8, #9, #10, #11   | OverTheWire Bandit lvl 0–1              | ✅     |
 | Day 4 | Cabling + Connectors             | #12–#17            | DNS commands in terminal + Wireshark    | ⬜     |
 | Day 5 | Topologies + IP + Binary         | #18, #19, #20, #21 | Packet Tracer: first tiny network       | ⬜     |
 | Day 6 | Subnetting Day                   | #22, #23, #24, #25 | subnettingpractice.com drills           | ⬜     |
